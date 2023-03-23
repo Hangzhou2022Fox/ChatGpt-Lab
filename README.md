@@ -25,6 +25,6 @@
 
 ## 程序处理
 
-- Copilot-X（ https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/ ）：Github 基于ChatGpt4生产了在线的代码生成工具 Copilpt；
+- Copilot-X（ https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/ ）：GitHub 基于 GPT-4 发布了 Copilot X，一款下一代代码生成工具，可以帮助开发者更快地完成任务。
 
 
