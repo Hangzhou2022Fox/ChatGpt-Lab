@@ -15,3 +15,8 @@
 - freegpt:( https://freegpt.one)
 
 
+## 文档处理工具
+
+- ChatBase（ https://www.chatbase.co/ ）:根据一个文档、链接或文本，生产个人的知识库，然后聊天机器人进行聊天对话；
+
+
