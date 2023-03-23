@@ -5,6 +5,7 @@
 ## ChatGpt官方
 
 - API Keys ( https://platform.openai.com/account/api-keys )
+- ChatGPt客户端（ https://testflight.apple.com/join/xPcARvEA ），利用ChatGpt生产的代码写的调用Api的客户端。
 
 ## ChatGpt国内版本
 
