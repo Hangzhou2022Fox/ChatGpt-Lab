@@ -4,6 +4,7 @@
 
 ## ChatGpt官方
 
+- API Keys ( https://platform.openai.com/account/api-keys )
 
 ## ChatGpt国内版本
 
