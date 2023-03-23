@@ -2,10 +2,12 @@
 
 收集学习各类ChatGpt资源。
 
-## ChatGpt官方
+## OpenAI官方
 
+- DALL·E2（ https://labs.openai.com/ ）：OpenAi官方图像处理平台；
 - API Keys ( https://platform.openai.com/account/api-keys )
 - ChatGPt客户端（ https://testflight.apple.com/join/xPcARvEA ），利用ChatGpt生产的代码写的调用Api的客户端。
+- 
 
 ## ChatGpt国内版本
 
