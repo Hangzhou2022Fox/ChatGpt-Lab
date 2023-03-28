@@ -33,3 +33,9 @@
 - Copilot-X（ https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/ ）：GitHub 基于 GPT-4 发布了 Copilot X，一款下一代代码生成工具，可以帮助开发者更快地完成任务。
 
 
+## 学习资源库
+
+- ChatGpt学习净化内容汇总（ https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb ）
+- AIGC学习净化内容汇总 （ https://nujuo8y1qx.feishu.cn/docx/RleadAwrAo4O1FxhuoGcDV86nBe ）
+
+
