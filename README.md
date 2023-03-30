@@ -21,7 +21,8 @@
 - ChatBase（ https://www.chatbase.co  ）:根据一个文档、链接或文本，生产个人的知识库，然后聊天机器人进行聊天对话；
 - ChatDoc （ https://chatdoc.com ）：上传PDF内容，可以生产对话的知识库；
 - ChatPdf ( https://www.chatpdf.com ): 与任何PDF聊天；
-- ChatExcel： ( https://chatexcel.com ) 北大团长开发的，通过对话操作excel表格；
+- ChatExcel( https://chatexcel.com )： 北大团长开发的，通过对话操作excel表格；
+- Notion AI:( https://www.notion.so/ ):集成ChatGpt的笔记软件，非常方便；
 
 ## 程序处理
 
