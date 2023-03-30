@@ -23,6 +23,7 @@
 - ChatPdf ( https://www.chatpdf.com ): 与任何PDF聊天；
 - ChatExcel( https://chatexcel.com )： 北大团长开发的，通过对话操作excel表格；
 - Notion AI:( https://www.notion.so/ ):集成ChatGpt的笔记软件，非常方便；
+- BriefGpt （ https://briefgpt.xyz/ ）:AI论文速递，每日更新 Arxiv 论文，第一时间了解 AI 最新动态；
 
 ## 程序处理
 
